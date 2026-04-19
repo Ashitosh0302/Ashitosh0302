@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Ashitosh&fontSize=72&fontColor=00FFC8&fontAlignY=38&desc=Code%20in%20silence.%20Deploy%20in%20power.&descSize=18&descAlignY=60&descColor=A9A9A9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2d2d,100:1a1a2e&height=200&section=header&text=Ashitosh&fontSize=72&fontColor=4F9BFF&fontAlignY=38&desc=Code%20in%20silence.%20Deploy%20in%20power.&descSize=18&descAlignY=60&descColor=AAAAAA" width="100%"/>
 
 <br/>
 
